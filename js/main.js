@@ -4,7 +4,7 @@
   Author URL: https://themeforest.net/user/pixelcurve
   Support: humayunahmed82@gmail.com
   Description: Creative  HTML5 template.
-  Version: 1.0
+  Version: 1.1
 */
 
 
